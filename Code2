@@ -1110,7 +1110,7 @@ campaignTrail_temp.states_json = [
         "model": "campaign_trail.state",
         "pk": 18337,
         "fields": {
-            "name": "Cork_East",
+            "name": "Cork East",
             "abbr": "Cork_East",
             "electoral_votes": 5,
             "popular_votes": 39624,
@@ -1138,7 +1138,7 @@ campaignTrail_temp.states_json = [
         "model": "campaign_trail.state",
         "pk": 18359,
         "fields": {
-            "name": "Cork_Borough",
+            "name": "Cork Borough",
             "abbr": "Cork_Borough",
             "electoral_votes": 5,
             "popular_votes": 49296,
@@ -1152,7 +1152,7 @@ campaignTrail_temp.states_json = [
         "model": "campaign_trail.state",
         "pk": 18370,
         "fields": {
-            "name": "Cork_North",
+            "name": "Cork North",
             "abbr": "Cork_North",
             "electoral_votes": 3,
             "popular_votes": 27947,
@@ -1250,7 +1250,7 @@ campaignTrail_temp.states_json = [
         "model": "campaign_trail.state",
         "pk": 18447,
         "fields": {
-            "name": "Carlow_Kilkenny",
+            "name": "Carlow Kilkenny",
             "abbr": "Carlow_Kilkenny",
             "electoral_votes": 5,
             "popular_votes": 47020,
@@ -1264,7 +1264,7 @@ campaignTrail_temp.states_json = [
         "model": "campaign_trail.state",
         "pk": 18458,
         "fields": {
-            "name": "Leix_Offaly",
+            "name": "Leix Offaly",
             "abbr": "Leix_Offaly",
             "electoral_votes": 5,
             "popular_votes": 46845,
@@ -1306,7 +1306,7 @@ campaignTrail_temp.states_json = [
         "model": "campaign_trail.state",
         "pk": 18491,
         "fields": {
-            "name": "Longford_Westmeath",
+            "name": "Longford Westmeath",
             "abbr": "Longford_Westmeath",
             "electoral_votes": 5,
             "popular_votes": 41061,
@@ -1334,7 +1334,7 @@ campaignTrail_temp.states_json = [
         "model": "campaign_trail.state",
         "pk": 18513,
         "fields": {
-            "name": "Mayo_South",
+            "name": "Mayo South",
             "abbr": "Mayo_South",
             "electoral_votes": 5,
             "popular_votes": 38514,
@@ -1348,7 +1348,7 @@ campaignTrail_temp.states_json = [
         "model": "campaign_trail.state",
         "pk": 18524,
         "fields": {
-            "name": "Mayo_North",
+            "name": "Mayo North",
             "abbr": "Mayo_North",
             "electoral_votes": 1,
             "popular_votes": 10,
@@ -1362,7 +1362,7 @@ campaignTrail_temp.states_json = [
         "model": "campaign_trail.state",
         "pk": 18535,
         "fields": {
-            "name": "Leitrim_Sligo",
+            "name": "Leitrim Sligo",
             "abbr": "Leitrim_Sligo",
             "electoral_votes": 7,
             "popular_votes": 55108,
@@ -1418,7 +1418,7 @@ campaignTrail_temp.states_json = [
         "model": "campaign_trail.state",
         "pk": 18579,
         "fields": {
-            "name": "Dublin_County",
+            "name": "Dublin County",
             "abbr": "Dublin_County",
             "electoral_votes": 8,
             "popular_votes": 80684,
@@ -1432,7 +1432,7 @@ campaignTrail_temp.states_json = [
         "model": "campaign_trail.state",
         "pk": 18590,
         "fields": {
-            "name": "Dublin_North",
+            "name": "Dublin North",
             "abbr": "Dublin_North",
             "electoral_votes": 8,
             "popular_votes": 71462,
@@ -1446,7 +1446,7 @@ campaignTrail_temp.states_json = [
         "model": "campaign_trail.state",
         "pk": 18601,
         "fields": {
-            "name": "Dublin_South",
+            "name": "Dublin South",
             "abbr": "Dublin_South",
             "electoral_votes": 7,
             "popular_votes": 55067,
