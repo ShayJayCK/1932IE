@@ -882,7 +882,7 @@ campaignTrail_temp.answers_json = [
         "pk": 17231,
         "fields": {
             "question": 15296,
-            "description": "I will expand the welfare state. The people need economic relief."
+            "description": "I will expand the welfare state.  The people need economic relief."
         }
     },
     {
@@ -1236,7 +1236,7 @@ campaignTrail_temp.states_json = [
         "model": "campaign_trail.state",
         "pk": 18436,
         "fields": {
-            "name": "Cork_West",
+            "name": "Cork West",
             "abbr": "Cork_West",
             "electoral_votes": 5,
             "popular_votes": 40973,
@@ -1350,8 +1350,8 @@ campaignTrail_temp.states_json = [
         "fields": {
             "name": "Mayo North",
             "abbr": "Mayo_North",
-            "electoral_votes": 1,
-            "popular_votes": 10,
+            "electoral_votes": 4,
+            "popular_votes": 31577,
             "poll_closing_time": 120,
             "winner_take_all_flg": 1,
             "election": 14
@@ -1610,9 +1610,9 @@ campaignTrail_temp.state_issue_score_json = [
         "pk": 18299,
         "fields": {
             "state": 18293,
-            "issue": 53,
+            "issue": 52,
             "state_issue_score": 0,
-            "weight": 2
+            "weight": 1
         }
     },
     {
@@ -1620,9 +1620,9 @@ campaignTrail_temp.state_issue_score_json = [
         "pk": 18300,
         "fields": {
             "state": 18293,
-            "issue": 52,
-            "state_issue_score": 1,
-            "weight": 1
+            "issue": 53,
+            "state_issue_score": 0,
+            "weight": 2
         }
     },
     {
@@ -3041,7 +3041,7 @@ campaignTrail_temp.state_issue_score_json = [
         "fields": {
             "state": 18612,
             "issue": 55,
-            "state_issue_score": 0,
+            "state_issue_score": -0.65,
             "weight": 1.5
         }
     },
@@ -4110,7 +4110,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 143,
             "state": 18535,
-            "state_multiplier": 1.25
+            "state_multiplier": 1.05
         }
     },
     {
@@ -4146,7 +4146,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 143,
             "state": 18546,
-            "state_multiplier": 1.15
+            "state_multiplier": 1.05
         }
     },
     {
@@ -5239,7 +5239,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 17201,
             "candidate": 142,
             "affected_candidate": 142,
-            "global_multiplier": 0.2
+            "global_multiplier": 0.1
         }
     },
     {
@@ -5249,7 +5249,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 17202,
             "candidate": 142,
             "affected_candidate": 142,
-            "global_multiplier": 0.15
+            "global_multiplier": 0.06
         }
     },
     {
@@ -5279,7 +5279,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 17210,
             "candidate": 142,
             "affected_candidate": 142,
-            "global_multiplier": -0.05
+            "global_multiplier": -0.1
         }
     },
     {
@@ -5289,7 +5289,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 17211,
             "candidate": 142,
             "affected_candidate": 142,
-            "global_multiplier": 0.15
+            "global_multiplier": 0.05
         }
     },
     {
@@ -5329,7 +5329,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 17222,
             "candidate": 142,
             "affected_candidate": 142,
-            "global_multiplier": 0.25
+            "global_multiplier": 0.15
         }
     },
     {
@@ -5339,7 +5339,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 17223,
             "candidate": 142,
             "affected_candidate": 142,
-            "global_multiplier": -0.075
+            "global_multiplier": -0.1
         }
     },
     {
@@ -5369,7 +5369,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 17230,
             "candidate": 142,
             "affected_candidate": 142,
-            "global_multiplier": -0.15
+            "global_multiplier": -0.1
         }
     },
     {
@@ -5379,7 +5379,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 17234,
             "candidate": 142,
             "affected_candidate": 142,
-            "global_multiplier": 0.25
+            "global_multiplier": 0.15
         }
     },
     {
@@ -5409,7 +5409,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 17238,
             "candidate": 142,
             "affected_candidate": 142,
-            "global_multiplier": 0.15
+            "global_multiplier": 0.1
         }
     },
     {
@@ -5449,7 +5449,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 17246,
             "candidate": 142,
             "affected_candidate": 142,
-            "global_multiplier": 0.15
+            "global_multiplier": 0.1
         }
     },
     {
@@ -5459,7 +5459,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 17245,
             "candidate": 142,
             "affected_candidate": 142,
-            "global_multiplier": 0.2
+            "global_multiplier": 0.15
         }
     },
     {
@@ -5479,7 +5479,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 17254,
             "candidate": 142,
             "affected_candidate": 142,
-            "global_multiplier": 0.25
+            "global_multiplier": 0.15
         }
     },
     {
@@ -5520,6 +5520,16 @@ campaignTrail_temp.answer_score_global_json = [
             "candidate": 142,
             "affected_candidate": 142,
             "global_multiplier": -0.15
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 18688,
+        "fields": {
+            "answer": 17231,
+            "candidate": 142,
+            "affected_candidate": 142,
+            "global_multiplier": 0.1
         }
     }
 ]
@@ -7117,7 +7127,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 17231,
             "candidate": 142,
-            "answer_feedback": "Good positioning. The people need economic relief."
+            "answer_feedback": "Good positioning. Your message to the Irish people is clear: that help is on the way."
         }
     },
     {
@@ -7287,14 +7297,14 @@ endingPicker = (out, totv, aa, quickstats) => {
 
     if(quickstats[0] > 76) {
         setImage("https://i0.wp.com/www.markholan.org/wp-content/uploads/2019/03/Dev1919.jpg");
-        return `Congratulations, Mr. de Valera, you have won a majority of seats in the Dáil Éireann. With this majority, you should be able to govern the Free State with little impediment.<br>Your agenda of revitalizing the economy `;
+        return `Congratulations, Mr. de Valera, you have won a majority of seats in the Dáil Éireann. With this majority, you should be able to govern the Free State with little impediment.<br>Your agenda of revitalizing the economy can begin to be seen by the Irish people.`;
     }
     if(quickstats[0] < 69) {
         setImage("https://www.irishcentral.com/uploads/article/113319/cropped_cropped_eamon_de_valera___getty.jpg?t=1687548288");
         return `This seems to be defeat. Cumann na nGaedheal has come out on top yet again. With not enough seats to even form a coalition, this leaves the door open to CnanG to form a government.`;
     }
     if(quickstats[2] > 69) {
-        setImage("");
+        setImage("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DailChamber_2020.jpg/290px-DailChamber_2020.jpg");
         return `Well, you didn't win a majority, but a coalition is still possible, most likely with the Labour Party.<br>You might have to make concessions to them, but your agenda may begin and you will likely be able to appoint all Fianna Fáil members to your cabinet.`;
     }
 }
@@ -7324,7 +7334,7 @@ campaignTrail_temp.jet_data = [{
             "operator": ">",
             "value": 0,
             "endingImage": "https://i0.wp.com/www.markholan.org/wp-content/uploads/2019/03/Dev1919.jpg",
-            "endingText": "Congratulations, Mr. de Valera, you have won a majority of seats in the Dáil Éireann. With this majority, you should be able to govern the Free State with little impediment.<br>Your agenda of revitalizing the economy ",
+            "endingText": "Congratulations, Mr. de Valera, you have won a majority of seats in the Dáil Éireann. With this majority, you should be able to govern the Free State with little impediment.<br>Your agenda of revitalizing the economy can begin to be seen by the Irish people.",
             "amount": "76"
         },
         "1690334052518": {
@@ -7341,7 +7351,7 @@ campaignTrail_temp.jet_data = [{
             "variable": "2",
             "operator": ">",
             "value": 0,
-            "endingImage": "",
+            "endingImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DailChamber_2020.jpg/290px-DailChamber_2020.jpg",
             "endingText": "Well, you didn't win a majority, but a coalition is still possible, most likely with the Labour Party.<br>You might have to make concessions to them, but your agenda may begin and you will likely be able to appoint all Fianna Fáil members to your cabinet.",
             "amount": "69"
         }
