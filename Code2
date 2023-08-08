@@ -7301,7 +7301,7 @@ endingPicker = (out, totv, aa, quickstats) => {
     }
     if(quickstats[0] < 69) {
         setImage("https://www.irishcentral.com/uploads/article/113319/cropped_cropped_eamon_de_valera___getty.jpg?t=1687548288");
-        return `This seems to be defeat. Cumann na nGaedheal has come out on top yet again. With not enough seats--or political will--to even form a coalition, this leaves the door open to CnanG to form a government.`;
+        return `This seems to be defeat. Cumann na nGaedheal has come out on top yet again. With not enough seats—or political will—to even form a coalition, this leaves the door open to CnanG to form a government.`;
     }
     if(quickstats[2] > 69) {
         setImage("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/DailChamber_2020.jpg/290px-DailChamber_2020.jpg");
@@ -7343,7 +7343,7 @@ campaignTrail_temp.jet_data = [{
             "operator": "<",
             "value": 0,
             "endingImage": "https://www.irishcentral.com/uploads/article/113319/cropped_cropped_eamon_de_valera___getty.jpg?t=1687548288",
-            "endingText": "This seems to be defeat. Cumann na nGaedheal has come out on top yet again. With not enough seats--or political will--to even form a coalition, this leaves the door open to CnanG to form a government.",
+            "endingText": "This seems to be defeat. Cumann na nGaedheal has come out on top yet again. With not enough seats—or political will—to even form a coalition, this leaves the door open to CnanG to form a government.",
             "amount": "69"
         },
         "1690483199904": {
